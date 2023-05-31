@@ -47,3 +47,8 @@ The function enter_stat_int() is assigned to the class IO and tagged as @staticm
 
 ## Conclusion
 In this module I continued to build on classes and functions developed in module 6 by adding exception handling and pickling to create a stronger program that is less likely to break and allows me to handle multiple lists/dictionaries/tuples/etc.  These features will be used in future programs to code games with multiple input files played by chaos muppets who don't like following directions.
+
+## References
+1.	Dawson, Michael, Python Programming for the Absolute Beginner, 3rd ed. Boston, MA: Cengage Learning, Inc, 2010.
+2.	W3 Schools, “Python Try Except.” [Online]. Available [Python Try Except (w3schools.com)](https://www.w3schools.com/python/python_try_except.asp) [Accessed May 29th  2023]
+3.	Geeks for Geeks, “Understanding Python Pickling with example.” [Online]. Available [Understanding Python Pickling with example - GeeksforGeeks](https://www.geeksforgeeks.org/understanding-python-pickling-example/) [Accessed May 29th 2023.
